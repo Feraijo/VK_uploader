@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../!!!!JAVA/poi-bin-3.16-beta1-20161120/poi-3.16-beta1/poi-3.16-beta1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../!!!!JAVA/poi-bin-3.16-beta1-20161120/poi-3.16-beta1/poi-examples-3.16-beta1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../!!!!JAVA/poi-bin-3.16-beta1-20161120/poi-3.16-beta1/poi-excelant-3.16-beta1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../!!!!JAVA/poi-bin-3.16-beta1-20161120/poi-3.16-beta1/poi-ooxml-3.16-beta1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../!!!!JAVA/poi-bin-3.16-beta1-20161120/poi-3.16-beta1/poi-ooxml-schemas-3.16-beta1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../!!!!JAVA/poi-bin-3.16-beta1-20161120/poi-3.16-beta1/poi-scratchpad-3.16-beta1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../!!!!JAVA/poi-src-3.16-beta1-20161120/poi-3.16-beta1/osgi/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../!!!!JAVA/poi-src-3.16-beta1-20161120/poi-3.16-beta1/osgi/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../!!!!JAVA/poi-src-3.16-beta1-20161120/poi-3.16-beta1/src/contrib/poi-ruby/java" />
+      <root url="file://$PROJECT_DIR$/../../!!!!JAVA/poi-src-3.16-beta1-20161120/poi-3.16-beta1/src/examples/src" />
+      <root url="file://$PROJECT_DIR$/../../!!!!JAVA/poi-src-3.16-beta1-20161120/poi-3.16-beta1/src/excelant/java" />
+      <root url="file://$PROJECT_DIR$/../../!!!!JAVA/poi-src-3.16-beta1-20161120/poi-3.16-beta1/src/excelant/testcases" />
+      <root url="file://$PROJECT_DIR$/../../!!!!JAVA/poi-src-3.16-beta1-20161120/poi-3.16-beta1/src/integrationtest" />
+      <root url="file://$PROJECT_DIR$/../../!!!!JAVA/poi-src-3.16-beta1-20161120/poi-3.16-beta1/src/java" />
+      <root url="file://$PROJECT_DIR$/../../!!!!JAVA/poi-src-3.16-beta1-20161120/poi-3.16-beta1/src/ooxml/java" />
+      <root url="file://$PROJECT_DIR$/../../!!!!JAVA/poi-src-3.16-beta1-20161120/poi-3.16-beta1/src/ooxml/testcases" />
+      <root url="file://$PROJECT_DIR$/../../!!!!JAVA/poi-src-3.16-beta1-20161120/poi-3.16-beta1/src/scratchpad/src" />
+      <root url="file://$PROJECT_DIR$/../../!!!!JAVA/poi-src-3.16-beta1-20161120/poi-3.16-beta1/src/scratchpad/testcases" />
+      <root url="file://$PROJECT_DIR$/../../!!!!JAVA/poi-src-3.16-beta1-20161120/poi-3.16-beta1/src/testcases" />
+    </SOURCES>
+  </library>
+</component>
